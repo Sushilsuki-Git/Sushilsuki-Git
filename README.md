@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, and coding 
 - 🌱 I’m currently learning java and DSA
 - 💞️ I’m looking to collaborate on java 
-- 📫 How to reach me through email 
+- 📫 How to reach me: through email 
 - 😄 Pronouns: he/him
 
 
